@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+}
+
+header {
+    
+    background-color:#050d1a;
+    display: flex;
+    padding: 50px;   
+    justify-content: center;
+    
+}
+
+h1 {
+    color: #d22a37;
+    font-weight: bold;
+    font-family: tahoma;
+    text-align: center;
+    padding-right: 40px;
+    font-size: 50px;    
+}
+
+section, aside {
+    margin: 0px;
+    }
+
+section{
+    margin-left: 100px;
+}
+
+label{
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 3em;
+}
+
+button{
+    background-color: #d22a37;
+    color: white;
+    font-weight: bold;
+    font-family: tahoma;  
+}
+
+#login .login, #login .riot, #login .botao{
+    text-align: center;
+    }
+
+#login .riot{
+    line-height: 100px;
+}
+
+#login .botao{
+    line-height: 70px;
+}
+
+table {
+    width: 100%;
+}
+
+#imagem .imagemsova figure{
+    float: right;
+    margin: 0;
+    
+    
+}
